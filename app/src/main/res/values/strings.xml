@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Las vocales</string>
+    <string name="button_VocalA">VocalA</string>
+    <string name="button_VocalE">VocalE</string>
+    <string name="button_VocalI">VocalI</string>
+    <string name="button_VocalO">VocalO</string>
+    <string name="button_VocalU">VocalU</string>
+
+</resources>
